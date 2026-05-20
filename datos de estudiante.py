@@ -1,0 +1,6 @@
+nombre = input("Escribe tu nombre aqui")
+edad = input("Escribe tu edad aquí")
+nie = input("Escribe tu nie aqui")
+print = ("hola", nombre)
+print = ("tienes", edad, "años")
+print = ("este es tu nie", nie)
